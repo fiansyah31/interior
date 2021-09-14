@@ -294,8 +294,7 @@
     color: #646464;
   }
   .content-gadget img {
-    width: 140px !important;
-    height: 60px !important;
+    width: 140px;
   }
   .footer-footer h2 {
     margin-top: 20px;
@@ -307,10 +306,4 @@
     color: #1b1c22;
   }
 }
-@media (max-widht:450px) {
-  .content-gadget img {
-    width: 100px !important ;
-    height: 40px !important;
-  }
-  
-}
+
