@@ -306,3 +306,11 @@
     color: #1b1c22;
   }
 }
+@media (max-widht:450px) {
+  .content-gadget img {
+
+    width: 100px ;
+    height: 60px;
+  }
+  
+}
