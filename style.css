@@ -295,6 +295,7 @@
   }
   .content-gadget img {
     width: 140px !important;
+    height: 60px !important;
   }
   .footer-footer h2 {
     margin-top: 20px;
@@ -309,7 +310,7 @@
 @media (max-widht:450px) {
   .content-gadget img {
     width: 100px !important ;
-    height: 60px !important;
+    height: 40px !important;
   }
   
 }
